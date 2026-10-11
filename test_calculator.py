@@ -1,6 +1,6 @@
-from calculator import calculate_total
-from calculator import calculate_average
-from calculator import get_result
+from Calculator import calculate_total
+from Calculator import calculate_average
+from Calculator import get_result
 
 def test_total():
   marks = [80,70,90]
